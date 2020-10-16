@@ -1,0 +1,88 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+.top_container{
+  background-color: #fff8cd;
+  position: relative;
+  margin: 0;
+}
+
+.pc{
+  position: relative;
+  top: 29px;
+  height : 400px;
+  width : 400px;
+}
+h1{
+  margin: 0;
+  padding-top: 50px;
+  font-size: 400%;
+  font-family: 'Chilanka', cursive;
+}
+p{
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 2em;
+  color: #000000;
+  font-weight: normal;
+}
+.health-bar{
+  position: absolute;
+  top : 5px;
+  left: 300px;
+  width: 150px;
+  height: 150px;
+}
+
+.energy-bar{
+  position: absolute;
+  top : 5px;
+  right: 300px;
+  width: 150px;
+  height: 150px;
+}
+
+
+.text{
+  position: relative;
+  top: 30px;
+}
+.DP{
+  position: relative;
+  border-radius: 50%;
+}
+.middle_container{
+  padding: 70px;
+  background-color: #ffe05d;
+}
+
+h2{
+  font-size: 300%;
+  font-family: 'Chilanka', cursive;
+  color: #bb2205;
+  font-weight: bold;
+}
+h3{
+  font-size: 250%;
+  font-family: 'Chilanka', cursive;
+  color: #d7385e;
+  font-weight: bold;
+}
+hr{
+  width: 70%;
+  border-style:none;
+  border-top-style: solid;
+  border-width:medium;
+  border-color: #f6830f;
+
+}
+a {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 130%;
+  color: #fafcc2;
+  padding: 20px;
+}
+.bottom_container{
+  padding: 20px;
+  background-color: #ac4b1c;
+}
